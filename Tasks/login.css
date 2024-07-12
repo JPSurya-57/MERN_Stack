@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:rgb(121, 216, 219);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    }
+    .container{
+        width: 27%;
+        height: 60vh;
+        background-color: white;
+        border-radius: 3%;
+    }
+    .login-box{
+        color: rgb(139, 57, 216);
+    }
